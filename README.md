@@ -56,6 +56,9 @@
 
 - [https://github.com/pooladkhay/covid19](https://github.com/pooladkhay/covid19), (React, NextJS) by [Mohammad Javad Pooladkhay](https://mamadev.ir)
 
+- [https://github.com/DavaEngineer/covid-19](https://github.com/DavaEngineer/covid-19), (GraphQL API) by [Dava Erdenekhuu](https://github.com/DavaEngineer)
+
+
 ## License
 
 MIT License 2020, mathdroid.
